@@ -32,8 +32,12 @@ System.out.println("Hello");
      System.out.println(num1%num1);
 
  }
+
  public static void brfun1(int num1,int num2){
      System.out.println(num1%num1);
 
+ }
+ public static void mainfun1(int num1,int num2){
+     System.out.println(num1%num1);
  }
 }
