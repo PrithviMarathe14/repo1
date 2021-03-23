@@ -28,4 +28,8 @@ System.out.println("Hello");
      System.out.println(num1*num1*num1*num1);
 
  }
+ public static void mod(int num1,int num2){
+     System.out.println(num1%num1);
+
+ }
 }
