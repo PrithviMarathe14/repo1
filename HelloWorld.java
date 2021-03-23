@@ -17,4 +17,7 @@ System.out.println("Hello");
  public static void div(int num1,int num2){
      System.out.println(num1/num2);
  }
+ public static void squr(int num1){
+     System.out.println(num1*num1);
+ }
 }
